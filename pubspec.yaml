@@ -15,6 +15,19 @@ dependencies:
 
   cupertino_icons: ^1.0.8
 
+  # State Management Package
+  flutter_bloc: ^9.1.1
+
+  provider: ^6.1.5+1 # Temporary state management solution
+
+  #Firebase Packages
+  firebase_core: ^4.2.1 # Where all Firebase tools are dependent
+  firebase_auth: ^6.1.2 # Package for handling user accounts
+  cloud_firestore: ^6.1.0 # For apps connection to the firestore database, allowing the app to read and write data
+  firebase_ui_auth: ^3.0.1 # Pre-built UI for Firebase Authentication
+
+  google_fonts: ^6.3.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter

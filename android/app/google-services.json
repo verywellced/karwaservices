@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181874109170",
+    "project_id": "karwaservices-beta",
+    "storage_bucket": "karwaservices-beta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181874109170:android:ffb9621a289ffc103f3e6b",
+        "android_client_info": {
+          "package_name": "com.example.karwaservices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3waJ2pRKlZQ9NExyPGRgqIPJhGRNwYDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
