@@ -1,0 +1,25 @@
+name: karwaservices
+description: "The Official Mobile App of Karwa Services"
+publish_to: "none"
+
+# The version number is used to identify different versions.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.3
+
+# Depedencies specify other packages that your package needs in order to work.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
